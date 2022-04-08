@@ -472,7 +472,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #b80135 no-repeat center center;
+  background: #ffffff no-repeat center center;
   background-size: cover;
 }
 
@@ -822,6 +822,18 @@ a.fn-item.active {
 
 .site-footer a:hover {
   color: #50585d;
+}
+
+.site-counter {
+  position: relative;
+  margin: 0rem 0 0 0;
+  padding: 1rem 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.5em;
+  color: #bbc7cc;
+  text-align: right;
+  background: #22343a;
 }
 
 .poweredby .i-ghost {

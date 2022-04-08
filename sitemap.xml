@@ -4,8 +4,8 @@
   <url>
     <loc>https://staging1.luftkuhlung.com/</loc>
   </url><url>
-    <loc>https://staging1.luftkuhlung.com/cars/</loc>
-  </url><url>
     <loc>https://staging1.luftkuhlung.com/photos/</loc>
+  </url><url>
+    <loc>https://staging1.luftkuhlung.com/previoussales/</loc>
   </url>
 </urlset>
